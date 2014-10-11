@@ -1,2 +1,2 @@
-git clone
+git clone  
 npm install
